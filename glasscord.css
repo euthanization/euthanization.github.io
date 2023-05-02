@@ -67,7 +67,7 @@ padding-left: -1px;
 width: 0px;
 }
 .wordmark-2u86JB:before{
-
+content: "";
 color: #fff;
 background-color: var(--glasscord-secondary-alt);
 font-size: 11.8px;
