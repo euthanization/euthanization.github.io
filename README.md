@@ -5,6 +5,6 @@ This was made in collaboration of Iheb, Percy, updated by Henom and myself. This
 Once you download the EXE or .py file, you will open the hour counter, input your token when prompted. Go into your hours channel and type "start". This will update your hours every hour until 80 hours.
 
 # How to Run Using .Py File
-[ttps://www.youtube.com/watch?v=gUA7hKyW8ag]
+[youtube.com/watch?v=gUA7hKyW8ag]
 
 just letting you know.... if you think the exe is a logger, just use the python file, it makes no difference to me at all
